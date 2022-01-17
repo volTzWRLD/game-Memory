@@ -2,8 +2,10 @@
 <div class="apresentation">
 
   <h1> Game Memory </h1>
-  <img src="https://media.discordapp.net/attachments/734474542218477639/932752933655826452/unknown.png?width=1352&height=676"> 
-  <img src="https://cdn.discordapp.com/attachments/734474542218477639/932752976467091486/unknown.png">
+  <div class="imgs" style="display: inline_block;">
+    <img src="https://media.discordapp.net/attachments/734474542218477639/932752933655826452/unknown.png?width=1352&height=676" width='470px'> 
+    <img src="https://cdn.discordapp.com/attachments/734474542218477639/932752976467091486/unknown.png" width='470px'>
+  </div>
   <br>
   
   
